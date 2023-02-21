@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Utkarsh, a computer science student in my second year at KIIT University. My primary focus has been on mastering Data Structure and Algorithms in Java and I am eager to pursue my passion in full-stack development. I am driven, dedicated, and committed to excellence, and I am always looking for new opportunities to learn and grow. I am confident that my combination of technical skills and drive will allow me to make a meaningful impact in the world of technology. I am excited to see where my journey takes me, and I am eager to make the most of every opportunity that comes my way.
+ I am learning DSA and Full Stack development, and I'm eager to use my newfound knowledge to create innovative solutions that have a positive impact on society. My fascination with entrepreneurship has inspired me to explore this field further, and I am committed to expanding my skill set to become a successful entrepreneur who contributes meaningfully to society.
 
 
 ## 🌐 Socials:
