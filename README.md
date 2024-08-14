@@ -33,6 +33,7 @@ I'm a passionate developer with a strong foundation in Data Structures, Algorith
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/utkarsh240/utkarsh240/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 #### Let's Connect! 🌐
