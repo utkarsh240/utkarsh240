@@ -42,6 +42,19 @@
 
 ###
 
+<h2 align="left">🛠️ Skills</h2>
+
+###
+
+<p align="left">
+🖥️ <strong>Programming Languages:</strong> Java, JavaScript, C/C++<br>
+🌐 <strong>Web Development:</strong> HTML, CSS, Node.js, React.js, Express.js<br>
+🗄️ <strong>Databases:</strong> MongoDB, SQL<br>
+🛠️ <strong>Tools/Platforms:</strong> Git, GitHub, Linux, IntelliJ, Visual Studio Tools, AWS, Microsoft Excel, Microsoft PowerPoint
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarsh240&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh240&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
