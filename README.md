@@ -74,6 +74,12 @@
 
 ###
 
+### GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh240&theme=github-compact&hide_border=true&area=true)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake.svg" />
