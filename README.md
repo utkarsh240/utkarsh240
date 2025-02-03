@@ -33,11 +33,17 @@
 
 ###
 
-<p align="left">
-  📧 Email: <a href="mailto:inet.utkarsh@gmail.com">inet.utkarsh@gmail.com</a><br>
-  💻 LeetCode: <a href="https://leetcode.com/u/utkarsh240/" target="_blank">leetcode.com/u/utkarsh240</a><br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/utkarsh-gupta-53647b217" target="_blank">linkedin.com/in/utkarsh-gupta-53647b217</a><br>
-</p>
+<div align="left">
+  <a href="mailto:inet.utkarsh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/utkarsh240/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://linkedin.com/in/utkarsh-gupta-53647b217" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ###
 
