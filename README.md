@@ -17,58 +17,26 @@
 ###
 
 <p align="left">
-  <span id="about-me-text">
-    🎓 Final-year engineering student passionate about technology and problem-solving.<br><br>
-    💻 Skilled in <strong>Data Structures and Algorithms (DSA)</strong> and <strong>Full-Stack Development</strong>, with a strong foundation in building efficient and scalable applications.<br><br>
-    🚀 Currently upskilling in <strong>React</strong> and <strong>TypeScript</strong> to create dynamic, user-friendly web applications.<br><br>
-    📚 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
-  </span>
+  🎓 Final-year engineering student passionate about technology and problem-solving.<br>
+  💻 Skilled in <strong>Data Structures and Algorithms (DSA)</strong> and <strong>Full-Stack Development</strong>, with a strong foundation in building efficient and scalable applications.<br>
+  🚀 Currently upskilling in <strong>React</strong> and <strong>TypeScript</strong> to create dynamic, user-friendly web applications.<br>
+  📚 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!<br>
+  <br>
+  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="50" height="50" /> 
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="50" height="50" /> 
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="50" height="50" />
 </p>
-
-<script>
-  const text = document.getElementById('about-me-text');
-  const originalText = text.innerHTML;
-  let currentText = '';
-  let charIndex = 0;
-
-  function typeText() {
-    if (charIndex < originalText.length) {
-      currentText += originalText.charAt(charIndex);
-      text.innerHTML = currentText + '<span class="cursor">|</span>'; // Add cursor
-      charIndex++;
-      setTimeout(typeText, 30); // Adjust typing speed here
-    } else {
-       text.innerHTML = originalText; //remove cursor
-    }
-  }
-
-  typeText(); // Start the typing animation
-
-</script>
-
-<style>
-  .cursor {
-    animation: blink 1s infinite step-start;
-  }
-
-  @keyframes blink {
-    50% {
-      opacity: 0;
-    }
-  }
-</style>
-
 
 ###
 
-<h2 align="left">Reach Out To Me</h2>
+<h2 align="left">Reach Out to Me</h2>
 
 ###
 
 <p align="left">
-  📧 Email: inet.utkarsh@gmail.com<br>
-  🔗 LeetCode: <a href="https://leetcode.com/u/utkarsh240/" target="_blank">leetcode.com/u/utkarsh240/</a><br>
-  🔗 LinkedIn: <a href="linkedin.com/in/utkarsh-gupta-53647b217/" target="_blank">linkedin.com/in/utkarsh-gupta-53647b217/</a>
+  📧 Email: <a href="mailto:inet.utkarsh@gmail.com">inet.utkarsh@gmail.com</a><br>
+  💻 LeetCode: <a href="https://leetcode.com/u/utkarsh240/" target="_blank">leetcode.com/u/utkarsh240</a><br>
+  🔗 LinkedIn: <a href="https://linkedin.com/in/utkarsh-gupta-53647b217" target="_blank">linkedin.com/in/utkarsh-gupta-53647b217</a><br>
 </p>
 
 ###
@@ -100,7 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
 
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />  <img width="12" />
@@ -114,8 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="intellij logo" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo" />
   <img width="12" />
-
-  </div>
+</div>
 
 ###
 
@@ -138,3 +104,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake.svg" />
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/utkarsh240/count.svg?"  />
+</div>
