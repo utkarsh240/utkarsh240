@@ -17,7 +17,7 @@
 ###
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=🎓+Final-year+engineering+student;💻+DSA+and+Full-Stack+Developer;🚀+React+and+TypeScript+enthusiast;📚+Always+learning+and+building" alt="Typing SVG" /><br>
+  🎓 Final-year engineering student passionate about technology and problem-solving.<br>
   💻 Skilled in <strong>Data Structures and Algorithms (DSA)</strong> and <strong>Full-Stack Development</strong>, with a strong foundation in building efficient and scalable applications.<br>
   🚀 Currently upskilling in <strong>React</strong> and <strong>TypeScript</strong> to create dynamic, user-friendly web applications.<br>
   📚 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!<br>
@@ -89,20 +89,6 @@
   <img width="12" />
 </div>
 
-<!-- Animated skill bars -->
-<h3 align="left">My Skill Set 🛠️</h3>
-<div align="left">
-  <img src="https://progress-bar.dev/90/?title=Java&width=300&color=orange">
-  <br>
-  <img src="https://progress-bar.dev/85/?title=JavaScript&width=300&color=yellow">
-  <br>
-  <img src="https://progress-bar.dev/80/?title=React&width=300&color=blue">
-  <br>
-  <img src="https://progress-bar.dev/75/?title=TypeScript&width=300&color=blue">
-  <br>
-  <img src="https://progress-bar.dev/85/?title=DSA&width=300&color=green">
-</div>
-
 ###
 
 <div align="center">
@@ -113,18 +99,12 @@
 
 ###
 
-<!-- 3D Contribution Calendar -->
-<h2 align="left">📅 My Contributions</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh240&theme=github-compact&hide_border=true&area=true" width="100%">
+### GitHub Contributions
 
-<!-- Animated trophy display -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkarsh240&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh240&theme=github-compact&hide_border=true&area=true)
 
 ###
 
-<!-- Animated contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake.svg" />
@@ -133,10 +113,6 @@
 
 ###
 
-<!-- Animated visitor counter with enhanced styling -->
 <div align="center">
-  <h2>✨ Visitors Count ✨</h2>
-  <img src="https://profile-counter.glitch.me/utkarsh240/count.svg?" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
+  <img src="https://profile-counter.glitch.me/utkarsh240/count.svg?"  />
 </div>
