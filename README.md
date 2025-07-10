@@ -33,14 +33,14 @@
 
 <div align="center">
 
-| 🚀 **Speed** | 🎯 **Accuracy** | 💡 **Creativity** | 🔥 **Passion** |
+| 🚀 **Speed** | 🎯 **Precision** | 💡 **Creativity** | 🔥 **Passion** |
 |:---:|:---:|:---:|:---:|
-| Fast Learner | Bug Hunter | Problem Solver | Code Lover |
+| Fast Learner | Code Optimizer | Problem Solver | Code Lover |
 | <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"> | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> | <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"> |
 
 </div>
 
-### 🌟 Animated Quote Generator
+### 🌟 Quote Generator
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -65,7 +65,7 @@
 
 ```typescript
 const utkarsh = {
-  code: ["Java", "JavaScript", "TypeScript", "C++", "Python"],
+  code: ["Java", "JavaScript", "TypeScript", "Python"],
   technologies: {
     frontEnd: ["React", "Next.js", "HTML5", "CSS3"],
     backEnd: ["Node.js", "Express"],
@@ -93,7 +93,7 @@ const utkarsh = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
@@ -150,7 +150,7 @@ const utkarsh = {
 
 ---
 
-## 🔥 More Animated Elements
+## 🔥 Interactive Showcase
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -175,7 +175,7 @@ const utkarsh = {
   <img src="https://img.shields.io/badge/State-Always_Learning-green?style=for-the-badge&logo=academia&logoColor=white">
 </p>
 
-### 🎨 Animated Skill Bars
+### 🎨 Skill Proficiency
 
 <div align="center">
 
@@ -185,7 +185,6 @@ const utkarsh = {
 Java         ████████████████████████████████████████ 90%
 JavaScript   ███████████████████████████████████████  85%
 TypeScript   ██████████████████████████████████████   80%
-C++          ████████████████████████████████████     75%
 Python       ██████████████████████████████████       70%
 ```
 
@@ -207,14 +206,14 @@ Git          ██████████████████████�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh240&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=⚡%20Real-time%20Coding%20Matrix%20⚡" />
 </div>
 
-### 💫 Rotating Tech Stack
+### 💫 Tech Stack Showcase
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb&theme=dark&perline=5" />
   <br/>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,html,css,git&theme=dark&perline=5" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,linux,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,vscode,idea&theme=dark&perline=5" />
 </div>
 
 ### 🌈 Rainbow Divider
@@ -258,16 +257,6 @@ CSS          45 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user&count=1&unique=true" alt="Spotify recently played" />
 </div>
-
----
-
-## 🎯 2024 Goals
-
-- [x] Master React & TypeScript
-- [x] Build 5+ full-stack projects
-- [ ] Contribute to 10+ open-source projects
-- [ ] Build an full-stack SaaS application
-- [ ] Reach 1000+ GitHub followers
 
 ---
 
