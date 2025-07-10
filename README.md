@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Final+Year+Engineering+Student;Full-Stack+Developer+%26+DSA+Enthusiast;Problem+Solver+%26+Code+Architect;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
-## 🎮 Interactive Elements
+## 🎪 Welcome to My GitHub Circus!
 
 <div align="center">
 
-### 🎪 Welcome to My GitHub Circus!
+
 
 <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400">
 
@@ -18,16 +18,6 @@
 
 </div>
 
-### 🎨 My Coding Journey in Colors
-
-```diff
-+ Started with C++ and Java fundamentals
-+ Mastered Data Structures and Algorithms  
-+ Explored Web Development with HTML/CSS/JS
-+ Dived deep into React and Modern JavaScript
-+ Currently building full-stack applications
-+ Always learning something new every day!
-```
 
 ### 🎪 Fun Developer Facts
 
@@ -84,7 +74,6 @@ const utkarsh = {
 - 🌱 Deep diving into **React and TypeScript**
 - 👯 Open to collaborate on **innovative projects**
 - 💬 Ask me about **DSA, Full-Stack Development, or Problem Solving**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
 
