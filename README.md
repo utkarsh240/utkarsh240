@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Final+Year+Engineering+Student;Full-Stack+Developer+%26+DSA+Enthusiast;Problem+Solver+%26+Code+Architect;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
-## 🎪 Welcome to My GitHub Circus!
+## 🎮 Quick Overview
 
 <div align="center">
 
-
+### 🎪 Welcome to My Profile!
 
 <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400">
 
@@ -19,7 +19,7 @@
 </div>
 
 
-### 🎪 Fun Developer Facts
+### 🎪 What I Bring to the Table
 
 <div align="center">
 
@@ -36,7 +36,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-### 🎵 My Coding Playlist Mood
+### 🎵 Coding Soundtrack
 
 <div align="center">
 
@@ -74,10 +74,11 @@ const utkarsh = {
 - 🌱 Deep diving into **React and TypeScript**
 - 👯 Open to collaborate on **innovative projects**
 - 💬 Ask me about **DSA, Full-Stack Development, or Problem Solving**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Skills & Tools
 
 <div align="center">
 
@@ -100,7 +101,7 @@ const utkarsh = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Stats & Activity
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=utkarsh240&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -114,21 +115,21 @@ const utkarsh = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=utkarsh240&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh240&custom_title=Utkarsh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Timeline
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh240/utkarsh240/output/github-snake-dark.svg" />
@@ -139,13 +140,13 @@ const utkarsh = {
 
 ---
 
-## 🔥 Interactive Showcase
+## 🔥 More Stuff
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-### 🎮 Fun Animations
+### 🎮 Daily Workflow
 
 <div align="center">
   
@@ -155,7 +156,7 @@ const utkarsh = {
 
 </div>
 
-### 🌟 Dynamic Badges
+### 🌟 Status Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white">
@@ -189,7 +190,7 @@ Git          ██████████████████████�
 
 </div>
 
-### 🎯 Live Coding Activity
+### 🎯 Code Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh240&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=⚡%20Real-time%20Coding%20Matrix%20⚡" />
@@ -210,13 +211,13 @@ Git          ██████████████████████�
 
 ---
 
-## 🚀 Rocket Launch Stats
+## 🚀 Latest Activity
 
 <div align="center">
   <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
   
@@ -230,7 +231,7 @@ Git          ██████████████████████�
 
 ---
 
-## 💻 Weekly Development Breakdown
+## 💻 This Week's Code Time
 
 ```text
 TypeScript   8 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.32 %
@@ -242,14 +243,14 @@ CSS          45 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Currently Vibing To
+## 🎵 What I'm Listening To
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user&count=1&unique=true" alt="Spotify recently played" />
 </div>
 
 ---
 
-## 📈 Profile Stats
+## 📈 Profile Info
 
 <div align="center">
   
