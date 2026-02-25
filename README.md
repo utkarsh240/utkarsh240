@@ -1,34 +1,36 @@
 # 👋 Hey there, I'm Utkarsh Gupta!
 
-**Final Year Engineering Student | Full-Stack Developer | DSA Enthusiast**
+**Final Year Engineering Student | Full-Stack Developer | GenAI Enthusiast**
 
-I'm a passionate problem solver and code architect focused on building scalable web applications. Always learning, always building!
+I'm a passionate problem solver and code architect focused on building scalable, AI-powered web applications. Always learning, always building!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Full-stack web applications**
-- 🌱 Deep diving into **React, Next.js, and TypeScript**
-- 💡 Passionate about **Data Structures, Algorithms, and System Design**
-- 👯 Open to collaborate on **innovative open-source projects**
+- 🔭 Currently working on **Full-stack web applications with AI integrations**
+- 🌱 Deep diving into **LLMs, RAG (Retrieval-Augmented Generation), and Agentic Workflows**
+- 💡 Passionate about **Generative AI, Prompt Engineering, and System Design**
+- 👯 Open to collaborate on **innovative AI and open-source projects**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes! 🧊**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" alt="Languages" />
+### AI & Generative AI
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<br />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI/ML Languages and Frameworks" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind&theme=dark" alt="Frontend" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,docker&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" alt="Tools" />
 
 ---
 
@@ -58,4 +60,13 @@ I'm a passionate problem solver and code architect focused on building scalable 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/utkarsh240/" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:inet.utkarsh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br />
+
+> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
