@@ -85,8 +85,16 @@ const utkarsh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarsh240&count_private=true&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=5b8cff&text_color=a9b1d6&icon_color=7dcfff&border_radius=12&hide_border=true&border_color=30363d" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh240&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=5b8cff&text_color=a9b1d6&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<!-- Profile Summary Cards — more reliable than github-readme-stats public instance -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh240&theme=tokyonight" alt="Stats" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarsh240&theme=tokyonight" alt="Repos per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkarsh240&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh240&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
