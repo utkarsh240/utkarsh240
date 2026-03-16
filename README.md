@@ -144,7 +144,7 @@ const utkarsh = {
 
 <br/><br/>
 
-> *"Building the bridge between traditional software engineering and modern AI capabilities — one commit at a time."*
+> *"Building the bridge between traditional software engineering and modern AI capabilities."*
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d7aff,100:5b8cff&height=120&section=footer" />
